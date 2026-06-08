@@ -56,4 +56,4 @@ const hero = () => {
 
 export default hero
 
-1:07:00
+"1:07:00"
